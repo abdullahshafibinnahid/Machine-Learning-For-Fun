@@ -1,5 +1,5 @@
 # Machine-Learning-For-Fun
 ## Galaxy Simulation | The fun of EDA
-You can find this notebook from here -> https://www.kaggle.com/code/abshafi2021/galaxy-simulation-the-fun-of-eda
+Astro in ML. 3D and 2D plotting.
 ## New Sorting Hat
-You can find this notebook from here -> https://www.kaggle.com/code/abshafi2021/new-sorting-hat
+since the old sorting hat for Hogwats has broken, so i made a new sorting hat!!
